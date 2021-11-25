@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carousel/static/css/main.261d2b35.chunk.css",
+    "main.js": "/carousel/static/js/main.a3c09cde.chunk.js",
+    "main.js.map": "/carousel/static/js/main.a3c09cde.chunk.js.map",
+    "runtime-main.js": "/carousel/static/js/runtime-main.1358b586.js",
+    "runtime-main.js.map": "/carousel/static/js/runtime-main.1358b586.js.map",
+    "static/js/2.b40a6f6b.chunk.js": "/carousel/static/js/2.b40a6f6b.chunk.js",
+    "static/js/2.b40a6f6b.chunk.js.map": "/carousel/static/js/2.b40a6f6b.chunk.js.map",
+    "static/js/3.d1c38148.chunk.js": "/carousel/static/js/3.d1c38148.chunk.js",
+    "static/js/3.d1c38148.chunk.js.map": "/carousel/static/js/3.d1c38148.chunk.js.map",
+    "index.html": "/carousel/index.html",
+    "static/css/main.261d2b35.chunk.css.map": "/carousel/static/css/main.261d2b35.chunk.css.map",
+    "static/js/2.b40a6f6b.chunk.js.LICENSE.txt": "/carousel/static/js/2.b40a6f6b.chunk.js.LICENSE.txt",
+    "static/media/carousel.css": "/carousel/static/media/british2.6fdaeb37.jpg",
+    "static/media/british5.855398ca.jpg": "/carousel/static/media/british5.855398ca.jpg",
+    "static/media/british7.1784ba35.jpeg": "/carousel/static/media/british7.1784ba35.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1358b586.js",
+    "static/js/2.b40a6f6b.chunk.js",
+    "static/css/main.261d2b35.chunk.css",
+    "static/js/main.a3c09cde.chunk.js"
+  ]
+}
